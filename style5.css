@@ -9,7 +9,7 @@ body{
 .box{
     position: fixed;
     left: calc(50vw - 40vmin);
-    top: calc(50vh - 27.5vmin);
+    top: calc(65vh - 27.5vmin);
     width: 90vmin;
     height: 75vmin;
 }

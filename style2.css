@@ -31,8 +31,8 @@ html {
   body .container {
     position: absolute;
     padding: 0;
-    top: calc(50% - (420px / 2));
-    left: calc(50% - (380px / 2));
+    top: calc(65% - (420px / 2));
+    left: calc(52% - (380px / 2));
     min-width: 380px;
     height: 430px;
     margin: 50px auto 0;

@@ -9,6 +9,10 @@ body {
     backface-visibility: hidden;
 }
 
+.container {
+    transform: translateY(-60%);
+}
+
 .gift {
     position: absolute;
     top: 50%;
